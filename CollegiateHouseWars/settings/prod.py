@@ -7,7 +7,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'csmb-housewars.c4patino.com',
+    'cb4l59cdg4fg1k.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com',
 ]
 
 CSRF_TRUSTED_ORIGINS = [
